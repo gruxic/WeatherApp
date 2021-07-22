@@ -9,3 +9,5 @@ Used the https://openweathermap.org/api API for the weather details at the user 
 
 This web application has been hosted on the **heroku** platform. Given below in the link through which you can access the same.
 https://weather-gruxic.herokuapp.com/
+
+Made by Gurujeet Shetty.
