@@ -2,6 +2,10 @@ body{
     text-align: center;
     background-color: #D62AD0;
 }
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
 .box{
     background-color: #78DEC7;
     max-width: 40%;  
